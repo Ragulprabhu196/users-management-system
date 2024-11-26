@@ -12,6 +12,7 @@ In this list, there is an Action column with three options: View, Edit, and Dele
 
 
 
-Additionally,With Axios an API link is provided below, which you can use to access the REST API. This API will display all user information in a JSON. 
+Additionally frontend deployed link ,with axios an API link is provided below, which you can use to access the REST API. This API will display all user information in a JSON. 
 
+https://user-management-system-196.netlify.app/ - frontend link
 https://656b9b6fdac3630cf7284279.mockapi.io/students - backend link
